@@ -3,7 +3,7 @@ layout: default
 title: fabctory | Training
 ---
 
-# Training
+## Training
 
 ### Micro-Master
 
