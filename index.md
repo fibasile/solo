@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Micro-Factory](#Micro-Factory) | [Training](#Training) | [Servizi](#Servizi) | [Contatti](#Contatti)
+
 **fabctory è un nuovo tipo di fabbrica**
 
 Progettiamo e realizziamo prodotti in piccole serie con le tecnologie digitali
