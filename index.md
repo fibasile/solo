@@ -4,20 +4,21 @@ layout: default
 
 **fabctory è un nuovo tipo di fabbrica**
 
-progettiamo e realizziamo prodotti in piccole serie,
+Progettiamo e realizziamo prodotti in piccole serie con le tecnologie digitali
 
-organizziamo workshop e programmi di training
+Organizziamo workshop e programmi di training
 
-creiamo nuovi spazi per l'innovazione
-
+Creiamo nuovi spazi per l'innovazione
 
 ## Micro-Factory
 
-Prototipazione
+Realizzazione prototipi
 
 Realizzazione di prodotti in piccole serie
 
-Automazione di processo
+Laboratorio e attrezzature
+
+Processi
 
 ## Training
 
@@ -34,3 +35,15 @@ Co-design
 Creazione di spazi per l'innovazione
 
 Eventi divulgativi
+
+## Contatti
+
+Contattaci per qualsiasi informazione al nostro email info@fabctory.com
+
+#### Laboratorio
+
+**Orario di apertura** Mar-Ven 10.00-18:00 (inviare una mail per un appuntamento)
+
+Via Mario Giuntini 192
+Polo Tecnologico di Navacchio
+Cascina (PI)
