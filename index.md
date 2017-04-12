@@ -44,6 +44,8 @@ Creiamo nuovi [spazi per l'innovazione](./servizi#innovation-space)
 
 Contattaci per qualsiasi informazione al nostro email [info@fabctory.com](mailto:info@fabctory.com)
 
+Seguici su [Twitter](http://twitter.com/fabctory) | [Instagram](http://instagram.com/fabctory) | [Facebook](http://facebook.com/fabctory)
+
 #### Laboratorio
 
 **Orari di apertura** 
