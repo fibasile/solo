@@ -9,7 +9,15 @@ Offriamo un'ampia gamma di programmi formativi online e on-site nelle principali
 
 ### Micro-Master
 
-Coming soon: [Digital Direct Manufacturing](), [Wearable Tech], [Computational Design](), [IOT Developer]()
+Coming soon: 
+
+[Digital Direct Manufacturing](#)
+
+[Wearable Tech](#)
+
+[Computational Design](#)
+
+[IOT Developer](#)
 
 ### Workshop
 
@@ -31,7 +39,7 @@ I programmi globali forniscono formazione di alto livello, in lingua inglese, co
 
 [Fab Academy](http://fabacademy.org)
 
-[Bio Academy](http://bioacademy.org)
+[Bio Academy](http://bio.academany.org)
 
 [Textile Academy](http://textile-academy.org)
 
