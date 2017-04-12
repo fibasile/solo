@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fabctory Micro-Factory
+title: fabctory | Micro-Factory
 ---
 
 ## [Micro-Factory](./micro-factory)
