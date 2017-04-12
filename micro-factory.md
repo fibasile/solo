@@ -57,6 +57,6 @@ Tramite le attrezzature e i materiali a disposizione potrai utilizzare diversi p
 - stampaggio zinco e metalli preziosi
 - circuiti stampati fino a due layer
 
-### Maggiori informazioni
+### Maggiori informazioni
 
 Se vuoi saperne di più sulla Micro-Factory [contattaci](mailto:info@fabctory.com) per una consulenza gratuita.
