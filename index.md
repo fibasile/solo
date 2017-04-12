@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Micro-Factory](#micro-factory) \| [Training](#training) \| [Servizi](#servizi) \| [Contatti](#Contatti)
+[Micro-Factory](#micro-factory) \| [Training](#training) \| [Servizi](#servizi) \| [Contatti](#contatti)
 
 **fabctory è un nuovo tipo di fabbrica**
 
