@@ -19,6 +19,8 @@ Coming soon:
 
 [IOT Developer](#)
 
+**Sei interessato a un Micro-Master?** [contattaci](mailto:info@fabctory.com)!
+
 ### Workshop
 
 I nostri workshop forniscono percorsi intensivi per acquisire padronanza di uno specifico tema. In generale prevedono dai 4 ai 12 incontri e possono essere realizzati sia presso il ns. laboratorio che presso la sede del cliente.
@@ -30,6 +32,8 @@ I nostri workshop forniscono percorsi intensivi per acquisire padronanza di uno 
 [FabAcademy Bootcamp](http://fablabtoscana.it/bootcamp)
 
 [Introduzione alla Fabbricazione Digitale]()
+
+**Vuoi partecipare o organizzare un workshop?** [contattaci](mailto:info@fabctory.com)!
 
 ### Training Online
 
