@@ -3,14 +3,14 @@ layout: default
 title: fabctory | Micro-Factory
 ---
 
-## [Micro-Factory](./micro-factory)
+## Micro-Factory
 
-[Digital Fabrication](./micro-factory#digital-fabrication)
+### Digital Fabrication
 
-[Realizzazione prototipi](./micro-factory#prototipi)
+### Realizzazione prototipi
 
-[Piccole serie](./micro-factory#piccole-serie)
+### Piccole serie
 
-[Laboratorio e attrezzature](./micro-factory#lab)
+### Laboratorio e attrezzature
 
-[Processi](./micro-factory#processi)
+### Processi
