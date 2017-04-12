@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fabctory training
+title: fabctory | Training
 ---
 
 ## Micro-Master
