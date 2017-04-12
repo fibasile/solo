@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## fabctory è un nuovo tipo di fabbrica
+## un nuovo tipo di fabbrica
 
 [Progettiamo](./servizi#co-design) e [realizziamo](./micro-factory#serie) prodotti in piccole serie con le tecnologie della [digital fabrication](./micro-factory#digital-fabrication)
 
