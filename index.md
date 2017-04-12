@@ -2,9 +2,12 @@
 layout: default
 ---
 
-fabctory è un nuovo tipo di fabbrica
+**fabctory è un nuovo tipo di fabbrica**
+
 progettiamo e realizziamo prodotti in piccole serie,
+
 organizziamo workshop e programmi di training
+
 creiamo nuovi spazi per l'innovazione
 
 
