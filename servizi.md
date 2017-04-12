@@ -3,10 +3,10 @@ layout: default
 title: fabctory | Servizi
 ---
 
-## [Servizi](./servizi)
+# [Servizi](./servizi)
 
-[Co-design](./servizi#co-design)
+### Co-design
 
-[Creazione di spazi per l'innovazione](./servizi#innovation-space)
+### Creazione di spazi per l'innovazione
 
-[Eventi divulgativi](./servizi#eventi-divulgativi)
+### Eventi divulgativi
