@@ -48,10 +48,14 @@ Contattaci per qualsiasi informazione al nostro email [info@fabctory.com](mailto
 
 #### Laboratorio
 
-**Orario di apertura** Mar-Ven 10.00-18:00 (inviare una mail per un appuntamento)
+**Orari di apertura** 
+Mar-Ven 10.00-18:00 
+(inviare una mail per un appuntamento)
 
 Via Mario Giuntini 192
 
 Polo Tecnologico di Navacchio
 
 Cascina (PI)
+
+**Accesso ai privati** durante il weekend chiunque può accedere al laboratorio iscrivendosi a [Fab Lab Toscana](http://wiki.fablabtoscana.it/Joining)
