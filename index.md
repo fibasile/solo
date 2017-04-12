@@ -12,7 +12,7 @@ Organizziamo workshop e programmi di training
 
 Creiamo nuovi spazi per l'innovazione
 
-## Micro-Factory
+## [Micro-Factory](./micro-factory)
 
 Realizzazione prototipi
 
@@ -24,11 +24,11 @@ Processi
 
 ## Training
 
-Micro-master
+[Micro-master](./micro-master)
 
-Workshop
+[Workshop](./workshop)
 
-Webminar e tutorial online
+[Webminar e tutorial online](./online)
 
 ## Servizi
 
