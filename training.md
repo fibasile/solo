@@ -3,16 +3,15 @@ layout: default
 title: fabctory | Training
 ---
 
-## Micro-Master
+# Training
 
+### Micro-Master
 
-## Workshop
+### Workshop
 
+### Training Online
 
-## Training Online
-
-
-## Global Education
+### Global Education
 
 
 
