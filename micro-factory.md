@@ -17,11 +17,12 @@ fabctory fornisce supporto durante tutto il processo di realizzazione di un prot
 
 **[Richiedi un preventivo](mailto:info@fabctory.com)**
 
-
 ### Piccole serie
 
 Grazie alle attrezzature disponibili nel laboratorio possiamo realizzare fino a mille copie di un oggetto sia con
 tecnologia FDM che tramite stampaggio in silicone in un'ampia gamma di materiali plastici. Il costo sarà nettamente inferiore rispetto ad iniziare subito una produzione industriale ad esempio tramite stampaggio ad iniezione.
+
+**[Richiedi una consulenza gratuita](mailto:info@fabctory.com)**
 
 ### Laboratorio e attrezzature
 
@@ -47,6 +48,8 @@ Le seguenti attrezzature sono a disposizione per lo sviluppo di prototipi e picc
 - SMD Hot Air Rework Station
 - Power Supplies
 - temperature controlled soldering stations
+
+**[Contattaci per usare il laboratorio](mailto:info@fabctory.com)**
 
 ### Processi
 
