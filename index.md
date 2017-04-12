@@ -42,20 +42,19 @@ Creiamo nuovi [spazi per l'innovazione](./servizi#innovation-space)
 
 ## Contatti
 
-Contattaci per qualsiasi informazione al nostro email [info@fabctory.com](mailto:info@fabctory.com)
+Contattaci al nostro email [info@fabctory.com](mailto:info@fabctory.com)
 
-Seguici su [Twitter](http://twitter.com/fabctory) | [Instagram](http://instagram.com/fabctory) | [Facebook](http://facebook.com/fabctory)
+Seguici su [Twitter](http://twitter.com/fabctory) \| [Instagram](http://instagram.com/fabctory) \| [Facebook](http://facebook.com/fabctory)
 
 #### Laboratorio
+
+**Indirizzo**
+Via Mario Giuntini 192
+Polo Tecnologico di Navacchio
+Cascina (PI)
 
 **Orari di apertura** 
 Mar-Ven 10.00-18:00 
 (inviare una mail per un appuntamento)
-
-Via Mario Giuntini 192
-
-Polo Tecnologico di Navacchio
-
-Cascina (PI)
 
 **Accesso ai privati** durante il weekend chiunque può accedere al laboratorio iscrivendosi a [Fab Lab Toscana](http://wiki.fablabtoscana.it/Joining)
