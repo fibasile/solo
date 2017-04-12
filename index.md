@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Micro-Factory](#micro-factory) \| [Training](#training) \| [Servizi](#servizi) \| [Contatti](#contatti)
-
 **fabctory è un nuovo tipo di fabbrica**
 
 [Progettiamo](./servizi#co-design) e [realizziamo](./micro-factory#serie) prodotti in piccole serie con le tecnologie della [digital fabrication](./micro-factory#digital-fabrication)
