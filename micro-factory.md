@@ -56,3 +56,7 @@ Tramite le attrezzature e i materiali a disposizione potrai utilizzare diversi p
 - compositi in fibre naturali e fibra di vetro
 - stampaggio zinco e metalli preziosi
 - circuiti stampati fino a due layer
+
+### Maggiori informazioni
+
+Se vuoi saperne di più sulla Micro-Factory [contattaci](mailto:info@fabctory.com) per una consulenza gratuita.
