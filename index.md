@@ -6,37 +6,39 @@ layout: default
 
 **fabctory è un nuovo tipo di fabbrica**
 
-Progettiamo e realizziamo prodotti in piccole serie con le tecnologie digitali
+[Progettiamo](./servizi#co-design) e [realizziamo](./micro-factory#serie) prodotti in piccole serie con le tecnologie della [digital fabrication](./micro-factory#digital-fabrication)
 
-Organizziamo workshop e programmi di training
+Organizziamo [workshop](./training#workshop) e programmi di [training online](./training#webminar-e-tutorial-online)
 
-Creiamo nuovi spazi per l'innovazione
+Creiamo nuovi [spazi per l'innovazione](./servizi#innovation-space)
 
 ## [Micro-Factory](./micro-factory)
 
-Realizzazione prototipi
+[Digital Fabrication](./micro-factory#digital-fabrication)
 
-Realizzazione di prodotti in piccole serie
+[Realizzazione prototipi](./micro-factory#prototipi)
 
-Laboratorio e attrezzature
+[Realizzazione di prodotti in piccole serie](./micro-factory#serie)
 
-Processi
+[Laboratorio e attrezzature](./micro-factory#lab)
+
+[Processi](./micro-factory#processi)
 
 ## Training
 
-[Micro-master](./micro-master)
+[Micro-master](./training#micro-master)
 
-[Workshop](./workshop)
+[Workshop](./training#workshop)
 
-[Webminar e tutorial online](./online)
+[Webminar e tutorial online](./training#webminar-e-tutorial-online)
 
 ## Servizi
 
-Co-design
+[Co-design](./servizi#co-design)
 
-Creazione di spazi per l'innovazione
+[Creazione di spazi per l'innovazione](./servizi#innovation-space)
 
-Eventi divulgativi
+[Eventi divulgativi](./servizi#eventi-divulgativi)
 
 ## Contatti
 
