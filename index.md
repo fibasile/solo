@@ -8,6 +8,8 @@ layout: default
 
 [Progettiamo](./servizi#co-design) e [realizziamo](./micro-factory#serie) prodotti in piccole serie con le tecnologie della [digital fabrication](./micro-factory#digital-fabrication)
 
+Forniamo un [laboratorio e le attrezzature](./micro-factory#lab) con tutto il necessario per realizzare prototipi
+
 Organizziamo [workshop](./training#workshop) e programmi di [training online](./training#webminar-e-tutorial-online)
 
 Creiamo nuovi [spazi per l'innovazione](./servizi#innovation-space)
