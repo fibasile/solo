@@ -15,6 +15,9 @@ Tramite la fabbricazione digitale possiamo realizzare oggetti con una finitura a
 
 fabctory fornisce supporto durante tutto il processo di realizzazione di un prototipo. Il nostro servizio di co-design ti consente di affidare a personale qualificato la progettazione CAD del tuo prodotto, che potrai realizzare direttamente nel laboratorio utilizzando le nostre attrezzature. Una volta completato il design, potrai produrre localmente una prima serie limitata o dei campioni utili per verificare la fattibilità di mercato.
 
+**[Richiedi un preventivo](mailto:info@fabctory.com)**
+
+
 ### Piccole serie
 
 Grazie alle attrezzature disponibili nel laboratorio possiamo realizzare fino a mille copie di un oggetto sia con
