@@ -21,6 +21,8 @@ Coming soon:
 
 ### Workshop
 
+I nostri workshop forniscono percorsi intensivi per acquisire padronanza di uno specifico tema. In generale prevedono dai 4 ai 12 incontri e possono essere realizzati sia presso il ns. laboratorio che presso la sede del cliente.
+
 [Made in a Fab Lab](http://fablabmade.com/workshop)
 
 [Fabricademy Bootcamp](http://textile-academy.org/bootcamp)
