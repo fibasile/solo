@@ -26,7 +26,7 @@ Creiamo nuovi [spazi per l'innovazione](./servizi#innovation-space)
 
 [Processi](./micro-factory#processi)
 
-## Training
+## [Training](./training)
 
 [Micro-master](./training#micro-master)
 
@@ -34,7 +34,7 @@ Creiamo nuovi [spazi per l'innovazione](./servizi#innovation-space)
 
 [Webminar e tutorial online](./training#webminar-e-tutorial-online)
 
-## Servizi
+## [Servizi](./servizi)
 
 [Co-design](./servizi#co-design)
 
