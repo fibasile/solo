@@ -40,12 +40,14 @@ Eventi divulgativi
 
 ## Contatti
 
-Contattaci per qualsiasi informazione al nostro email info@fabctory.com
+Contattaci per qualsiasi informazione al nostro email [info@fabctory.com](mailto:info@fabctory.com)
 
 #### Laboratorio
 
 **Orario di apertura** Mar-Ven 10.00-18:00 (inviare una mail per un appuntamento)
 
 Via Mario Giuntini 192
+
 Polo Tecnologico di Navacchio
+
 Cascina (PI)
