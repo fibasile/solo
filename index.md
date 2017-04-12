@@ -20,7 +20,7 @@ Creiamo nuovi [spazi per l'innovazione](./servizi#innovation-space)
 
 [Realizzazione prototipi](./micro-factory#prototipi)
 
-[Realizzazione di prodotti in piccole serie](./micro-factory#serie)
+[Piccole serie](./micro-factory#piccole-serie)
 
 [Laboratorio e attrezzature](./micro-factory#lab)
 
