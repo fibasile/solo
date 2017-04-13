@@ -8,9 +8,12 @@
   'solo',
   'syntax';
 
+
+
 h1, h2, h3, h4, h5, h6 {
-   font-family: 'Bree Serif', cursive;
- 
+   font-family: 'Dosis', cursive;
+   font-weight: 800;
+   text-transform: lowercase;
 }
 
 .logo {
@@ -18,38 +21,96 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2.8em;
   display: block;
   text-transform: none;
+  text-align:center;
+}
+.logo a:hover, .logo a, .nav a {
+  text-decoration:none;
 }
 
 
+
+.nav {
+  text-transform: lowercase;
+  text-align:center;
+  font-family: 'Inconsolata', cursive;
+  font-weight: 400;
+}
+
+.coming-soon {
+  background: black;
+  color: #af9981;
+  text-transform: uppercase;
+  padding: 0 6px 0 6px;
+  margin: 0 6px 0 0;
+  width: auto;
+  display: inline-block;
+}
 
  h1#a-new-kind-of-factory, h1#micro-factory,h1#training, h1#servizi {
    display: inline-block;
    padding: 8px;
-   margin-bottom: 1em;
-   font-size: 1.5em;   
+   margin-bottom: 0.8em;
+   font-size: 1.8em;   
+   padding-left: 0px;
+ }
+ 
+ h2#micro-factorymicro-factory a,
+ h2#trainingtraining a,
+ h2#serviziservizi a {
+   text-decoration: none;
+//   text-transform: uppercase;
+//   background: black;
+//   color: #ffd633;
+//   padding-left: 6px;
+//   padding-right: 6px;
+//
  }
 
  h1#a-new-kind-of-factory {
   background-color:#000;
-  color: white;
+  color: #af9981;
   text-transform: uppercase;
   font-size: 1.3em;
+  font-family: 'Dosis', cursive;
+  padding-left: 6px;
 }
 
+h2 i.fa{
+  width:40px;
+  margin-right:8px;
+}
+
+hr {
+  color: black;
+  border-color: black;
+  background-color: black;
+}
 p,body {
   color:black;
+}
+p {
+//  text-align: justify;
 }
 
 a, a:hover, a:visited {
 // color: #24292e;
 color:black;
-  font-weight: bold;
+text-decoration: underline;
 }
 
 html {
-  background-color: #fcfcfc;
+  background-image: url('./tile.jpg');
+  background-position:center center;
+  background-repeat:repeat;
+//  background-color: #ffd633;
+background-color: #af9981;
   color:black;
   font-family: 'Inconsolata', sans-serif;
   font-size: 1.5em;
   line-height: 1.5;
+}
+
+.footer {
+  margin-top: 64px;
+  text-align: center;
 }

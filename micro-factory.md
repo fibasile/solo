@@ -11,13 +11,13 @@ Tramite la fabbricazione digitale possiamo realizzare oggetti con una finitura a
 
 ## Realizzazione prototipi
 
-fabctory fornisce supporto durante tutto il processo di realizzazione di un prototipo. 
+**fabctory** fornisce supporto durante tutto il processo di realizzazione di un prototipo. 
 
 Il nostro servizio di co-design ti consente di affidare a personale qualificato la progettazione CAD del tuo prodotto, che potrai realizzare direttamente nel laboratorio utilizzando le nostre attrezzature. 
 
 Una volta completato il design, potrai produrre localmente una prima serie limitata o dei campioni utili per verificare la fattibilità di mercato.
 
-**[[Richiedi un preventivo]](mailto:info@fabctory.com)**
+<i class="fa fa-exclamation-circle"></i> **[Richiedi un preventivo](mailto:info@fabctory.com)**
 
 ## Piccole serie
 
@@ -25,7 +25,7 @@ Grazie alle attrezzature disponibili nel laboratorio possiamo realizzare fino a 
 
 Il costo sarà nettamente inferiore rispetto a quello necessario per iniziare subito una produzione industriale, ad esempio tramite stampaggio ad iniezione.
 
-**[[Richiedi una consulenza gratuita]](mailto:info@fabctory.com)**
+<i class="fa fa-exclamation-circle"></i> **[Richiedi una consulenza gratuita](mailto:info@fabctory.com)**
 
 ## Laboratorio e attrezzature
 
@@ -33,7 +33,7 @@ Il laboratorio di fabctory si estende per oltre 300mq e fornisce spazi per il la
 
 Le seguenti attrezzature sono a disposizione per lo sviluppo di prototipi e piccole serie.
 
-**Fab Lab**
+<i class="fa fa-caret-right"></i> **Fab Lab**
 
 - Full Spectrum 100W Co2 Laser Laser-cutter
 - Form1+ SLA 3D Printer High-resolution SLA 3D Printer
@@ -44,7 +44,7 @@ Le seguenti attrezzature sono a disposizione per lo sviluppo di prototipi e picc
 - Ultimaker 2 Ultimaker 3D printer
 - Roland SRM-20 
 
-**Electronic lab**
+<i class="fa fa-caret-right"></i> **Electronic lab**
 
 - SMD Hot Air Rework Station
 - Logic Analizer
@@ -53,7 +53,7 @@ Le seguenti attrezzature sono a disposizione per lo sviluppo di prototipi e picc
 - Alimentatori da banco
 - Stazioni saldanti
 
-**Officina Meccanica & Falegnameria**
+<i class="fa fa-caret-right"></i> **Officina Meccanica & Falegnameria**
 - Tormach PCNC1100 3-axis CNC milling machine
 - NexTIG Powermix 300 TIG & PLASMA machine
 - NEBES TM178 Metal bandsaw
@@ -64,7 +64,7 @@ Le seguenti attrezzature sono a disposizione per lo sviluppo di prototipi e picc
 - Attrezzatura da falegnameria
 - Power Tools
 
-**Media Lab**
+<i class="fa fa-caret-right"></i> **Media Lab**
 - Studio di posa
 - Fotocamere Canon EOS
 - Videocamere Xiaomi Action Cam
@@ -74,7 +74,7 @@ Le seguenti attrezzature sono a disposizione per lo sviluppo di prototipi e picc
 - Visore VR HTC Vive con PC Multimediale
 - Visore Samsung VR Gear
 
-**[[Contattaci per usare il laboratorio]](mailto:info@fabctory.com)**
+<i class="fa fa-exclamation-circle"></i>  **[Contattaci per usare il laboratorio](mailto:info@fabctory.com)**
 
 ## Processi
 
@@ -95,14 +95,14 @@ Se vuoi saperne di più sulla Micro-Factory [contattaci](mailto:info@fabctory.co
 
 ## Come raggiungerci
 
-**Indirizzo**
+**<i class="fa fa-map-marker"></i> Indirizzo**
 Via Mario Giuntini 192
 Polo Tecnologico di Navacchio
 Cascina (PI)
 
-**Orari di apertura** 
+**<i class="fa fa-calendar"></i> Orari di apertura** 
 Mar-Ven 10.00-18:00 
 (inviare una mail per un appuntamento)
 
-**Accesso ai privati** durante il weekend chiunque può accedere al laboratorio iscrivendosi a [Fab Lab Toscana](http://wiki.fablabtoscana.it/Joining)
+**<i class="fa fa-users"></i> Accesso ai privati** durante il weekend chiunque può accedere al laboratorio iscrivendosi a [Fab Lab Toscana](http://wiki.fablabtoscana.it/Joining)
 

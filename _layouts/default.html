@@ -6,16 +6,22 @@
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
-  <link href="https://fonts.googleapis.com/css?family=Inconsolata|Bree+Serif|Pacifico" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata|Pacifico|Dosis:400,800" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="css/main.css">
 {% include head.html %}
 </head>
 <body>
+  <a name="top"/>
   <div class="container">
     <h1 class="logo"><a href="./">{{ site.tag_text }}</a></h1>
-    <p><a href="./index">Home</a> | <a href="./micro-factory">Micro-Factory</a> | <a href="./training">Training</a> | <a href="./servizi">Servizi</a> | <a href="./index#contatti">Contatti</a></p>
+    <div class="nav"><a href="./index">Home</a> | <a href="./micro-factory">Micro-Factory</a> | <a href="./training">Training</a> | <a href="./servizi">Servizi</a> | <a href="./index#contatti">Contatti</a></div>
     <hr>
     {{ content }}
+    <div class="footer">
+      <a href="#top"><i class="fa fa-arrow-up"></i></a><br/>
+      <a href="#top">Back to top</a>
+    </div>
   </div>
 {% include scripts.html %}
 </body>
