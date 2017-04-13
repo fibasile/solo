@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## un nuovo tipo di fabbrica
+# A new kind of factory
 
 [Progettiamo](./servizi#co-design) e [realizziamo](./micro-factory#serie) prodotti in piccole serie con le tecnologie della [digital fabrication](./micro-factory#digital-fabrication)
 
@@ -14,47 +14,25 @@ Creiamo nuovi [spazi per l'innovazione](./servizi#innovation-space)
 
 ## [Micro-Factory](./micro-factory)
 
-[Digital Fabrication](./micro-factory#digital-fabrication)
-
+[Digital Fabrication](./micro-factory#digital-fabrication) \|
 [Realizzazione prototipi](./micro-factory#prototipi)
 
-[Piccole serie](./micro-factory#piccole-serie)
-
-[Laboratorio e attrezzature](./micro-factory#lab)
-
+[Piccole serie](./micro-factory#piccole-serie) \|
+[Laboratorio e attrezzature](./micro-factory#lab) \|
 [Processi](./micro-factory#processi)
 
 ## [Training](./training)
 
-[Micro-master](./training#micro-master)
-
-[Workshop](./training#workshop)
-
-[Webminar e tutorial online](./training#webminar-e-tutorial-online)
+[Micro-master](./training#micro-master) \| [Workshop](./training#workshop) \| [Webminar e tutorial online](./training#webminar-e-tutorial-online)
 
 ## [Servizi](./servizi)
 
-[Co-design](./servizi#co-design)
+[Co-design](./servizi#co-design) \| [Creazione di spazi per l'innovazione](./servizi#innovation-space) \|
 
-[Creazione di spazi per l'innovazione](./servizi#innovation-space)
-
-[Eventi divulgativi](./servizi#eventi-divulgativi)
+ [Eventi divulgativi](./servizi#eventi-divulgativi)
 
 ## Contatti
 
 Contattaci al nostro email [info@fabctory.com](mailto:info@fabctory.com)
 
 Seguici su [Twitter](http://twitter.com/fabctory) \| [Instagram](http://instagram.com/fabctory) \| [Facebook](http://facebook.com/fabctory)
-
-## Laboratorio
-
-**Indirizzo**
-Via Mario Giuntini 192
-Polo Tecnologico di Navacchio
-Cascina (PI)
-
-**Orari di apertura** 
-Mar-Ven 10.00-18:00 
-(inviare una mail per un appuntamento)
-
-**Accesso ai privati** durante il weekend chiunque può accedere al laboratorio iscrivendosi a [Fab Lab Toscana](http://wiki.fablabtoscana.it/Joining)

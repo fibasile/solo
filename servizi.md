@@ -2,10 +2,11 @@
 layout: default
 title: fabctory | Servizi
 ---
+# Servizi
+Il nostro team è pronto ad assisterti nell'adozione e nella valorizzazione delle tecnologie digitali
+all'interno dei processi aziendali, nella divulgazione e nell'allestimento di spazi destinati all'innovazione. 
 
-## Servizi
-
-### Co-design
+## Co-design
 
 La fabbricazione digitale e tutti i nuovi processi messi a disposizione dalle ultime tecnologie possono essere una grande possibilità per le imprese e per coloro vogliano realizzare prodotti innovativi
 
@@ -23,7 +24,14 @@ Alcuni dei servizi offerti:
 
 Past clients: Fabrica Machinale, Smartex, 3LogicMk
 
-### Creazione di spazi per l'innovazione
+
+## Eventi divulgativi
+
+Organizziamo eventi di qualsiasi dimensione per la promozione dell'open innovation e della fabbricazione digitale. 
+Recentemente abbiamo organizzato il [WAO Festival](http://waofestival.com/).
+
+
+## Creazione di spazi per l'innovazione
 
 **Cos’è un Innovation Lab?**
 
@@ -38,9 +46,4 @@ Il processo proposto nella realizzazione di un innovation lab, nato dall’esper
 
 **Il partner giusto per il tuo innovation lab** fabctory può supportarti nella progettazione, realizzazione e nell'avviamento del tuo spazio di innovazione, con un team di esperti che da anni allestisce e gestisce questo tipo di spazi.
 
-[Contattaci per maggiori informazioni](mailto:info@fabctory.com)
-
-### Eventi divulgativi
-
-Organizziamo eventi di qualsiasi dimensione per la promozione dell'open innovation e della fabbricazione digitale. 
-Recentemente abbiamo organizzato il [WAO Festival](http://waofestival.com/).
+[[Contattaci per maggiori informazioni]](mailto:info@fabctory.com)

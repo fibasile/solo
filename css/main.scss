@@ -8,22 +8,48 @@
   'solo',
   'syntax';
 
-.logo {
- font-family: 'Pacifico', cursive;
- font-size: 2.8em
+h1, h2, h3, h4, h5, h6 {
+   font-family: 'Bree Serif', cursive;
+ 
 }
 
-h1, h2, h3, h4, h5, h6 {
-   font-family: 'Roboto', cursive;
+.logo {
+  font-family: 'Pacifico', cursive;
+  font-size: 2.8em;
+  display: block;
+  text-transform: none;
+}
+
+
+
+ h1#a-new-kind-of-factory, h1#micro-factory,h1#training, h1#servizi {
+   display: inline-block;
+   padding: 8px;
+   margin-bottom: 1em;
+   font-size: 1.5em;   
+ }
+
+ h1#a-new-kind-of-factory {
+  background-color:#000;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.3em;
+}
+
+p,body {
+  color:black;
 }
 
 a, a:hover, a:visited {
- color: #24292e;
+// color: #24292e;
+color:black;
   font-weight: bold;
 }
 
 html {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  background-color: #fcfcfc;
+  color:black;
+  font-family: 'Inconsolata', sans-serif;
+  font-size: 1.5em;
   line-height: 1.5;
 }

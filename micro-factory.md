@@ -3,55 +3,80 @@ layout: default
 title: fabctory | Micro-Factory
 ---
 
-## Micro-Factory
+# Micro-Factory
 
-### Digital Fabrication
+Il design digitale consente di rappresentare e trasferire facilmente il progetto di parti e componenti.
 
-Il design digitale consente di rappresentare e trasferire facilmente il progetto di parti e componenti
+Tramite la fabbricazione digitale possiamo realizzare oggetti con una finitura adatta per le maggiori applicazioni, a costi molto più contenuti dei processi manuali, e per piccole serie, di quelli industriali.
 
-Tramite la fabbricazione digitale possiamo realizzare oggetti con una finitura adatta per le maggiori applicazioni, a costi molto più contenuti dei processi manuali, e per piccole serie di quelli industriali.
+## Realizzazione prototipi
 
-### Realizzazione prototipi
+fabctory fornisce supporto durante tutto il processo di realizzazione di un prototipo. 
 
-fabctory fornisce supporto durante tutto il processo di realizzazione di un prototipo. Il nostro servizio di co-design ti consente di affidare a personale qualificato la progettazione CAD del tuo prodotto, che potrai realizzare direttamente nel laboratorio utilizzando le nostre attrezzature. Una volta completato il design, potrai produrre localmente una prima serie limitata o dei campioni utili per verificare la fattibilità di mercato.
+Il nostro servizio di co-design ti consente di affidare a personale qualificato la progettazione CAD del tuo prodotto, che potrai realizzare direttamente nel laboratorio utilizzando le nostre attrezzature. 
 
-**[Richiedi un preventivo](mailto:info@fabctory.com)**
+Una volta completato il design, potrai produrre localmente una prima serie limitata o dei campioni utili per verificare la fattibilità di mercato.
 
-### Piccole serie
+**[[Richiedi un preventivo]](mailto:info@fabctory.com)**
 
-Grazie alle attrezzature disponibili nel laboratorio possiamo realizzare fino a mille copie di un oggetto sia con
-tecnologia FDM che tramite stampaggio in silicone in un'ampia gamma di materiali plastici. Il costo sarà nettamente inferiore rispetto ad iniziare subito una produzione industriale ad esempio tramite stampaggio ad iniezione.
+## Piccole serie
 
-**[Richiedi una consulenza gratuita](mailto:info@fabctory.com)**
+Grazie alle attrezzature disponibili nel laboratorio possiamo realizzare fino a mille copie di un oggetto sia con tecnologia FDM che tramite stampaggio in silicone in un'ampia gamma di materiali plastici. 
 
-### Laboratorio e attrezzature
+Il costo sarà nettamente inferiore rispetto a quello necessario per iniziare subito una produzione industriale, ad esempio tramite stampaggio ad iniezione.
+
+**[[Richiedi una consulenza gratuita]](mailto:info@fabctory.com)**
+
+## Laboratorio e attrezzature
 
 Il laboratorio di fabctory si estende per oltre 300mq e fornisce spazi per il lavoro di gruppo, per la formazione, la prototipazione, la costruzione e l'assemblaggio dei progetti.
 
 Le seguenti attrezzature sono a disposizione per lo sviluppo di prototipi e piccole serie.
 
-- Full Spectrum 100W Co2 Laser Laser-cutter, which allows you to create two or three-dimensional objects by assembling two-dimensional parts.
-- Tormach PCNC1100 3-axis CNC milling machine
+**Fab Lab**
+
+- Full Spectrum 100W Co2 Laser Laser-cutter
 - Form1+ SLA 3D Printer High-resolution SLA 3D Printer
-- NexTIG Powermix 300 TIG & PLASMA machine
-- Roland CAMM-1 Cutting Plotter, which allows the cutting of vinyl, masks, flexible circuits, and antennas.
+- Roland CAMM-1 Cutting Plotter
 - Zortrax M200 ABS 3D FDM Printer
 - WASP Delta PLA 3D FDM Printer
 - HackerBot V2 Opensource 3D Printer
-- Roland SRM-20 small CNC milling precision machine that allows the realization of printed circuit boards and molds for casting.
-- NEBES TM178 Metal bandsaw
 - Ultimaker 2 Ultimaker 3D printer
-- Electronic lab equipment and all the tools needed for programming micro-controllers.
-- Large CNC milling machine, to achieve furniture and large objects cutting light materials
-- Woodworking lab equipment
-- Power Tools
+- Roland SRM-20 
+
+**Electronic lab**
+
 - SMD Hot Air Rework Station
-- Power Supplies
-- temperature controlled soldering stations
+- Logic Analizer
+- Oscilloscopio USB
+- Microscopio USB
+- Alimentatori da banco
+- Stazioni saldanti
 
-**[Contattaci per usare il laboratorio](mailto:info@fabctory.com)**
+**Officina Meccanica & Falegnameria**
+- Tormach PCNC1100 3-axis CNC milling machine
+- NexTIG Powermix 300 TIG & PLASMA machine
+- NEBES TM178 Metal bandsaw
+- Large CNC milling machine
+- Forno per microfusioni in lega
+- Campana sottovuoto
+- Macchine per riciclare la plastica - Precious Plastic
+- Attrezzatura da falegnameria
+- Power Tools
 
-### Processi
+**Media Lab**
+- Studio di posa
+- Fotocamere Canon EOS
+- Videocamere Xiaomi Action Cam
+- Proiettori Full HD
+- TV Led 40''
+- Sistema Audio Yamaha
+- Visore VR HTC Vive con PC Multimediale
+- Visore Samsung VR Gear
+
+**[[Contattaci per usare il laboratorio]](mailto:info@fabctory.com)**
+
+## Processi
 
 Tramite le attrezzature e i materiali a disposizione potrai utilizzare diversi processi per realizzare il tuo progetto:
 
@@ -63,6 +88,21 @@ Tramite le attrezzature e i materiali a disposizione potrai utilizzare diversi p
 - stampaggio zinco e metalli preziosi
 - circuiti stampati fino a due layer
 
-### Maggiori informazioni
+## Maggiori informazioni
 
 Se vuoi saperne di più sulla Micro-Factory [contattaci](mailto:info@fabctory.com) per una consulenza gratuita.
+
+
+## Come raggiungerci
+
+**Indirizzo**
+Via Mario Giuntini 192
+Polo Tecnologico di Navacchio
+Cascina (PI)
+
+**Orari di apertura** 
+Mar-Ven 10.00-18:00 
+(inviare una mail per un appuntamento)
+
+**Accesso ai privati** durante il weekend chiunque può accedere al laboratorio iscrivendosi a [Fab Lab Toscana](http://wiki.fablabtoscana.it/Joining)
+

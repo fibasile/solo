@@ -3,11 +3,13 @@ layout: default
 title: fabctory | Training
 ---
 
-## Training
+# Training
 
 Offriamo un'ampia gamma di programmi formativi online e on-site nelle principali città della Toscana.
 
-### Micro-Master
+---
+
+## Micro-Master
 
 Coming soon: 
 
@@ -19,9 +21,9 @@ Coming soon:
 
 [IOT Developer](#)
 
-**Sei interessato a un Micro-Master?** [contattaci](mailto:info@fabctory.com)!
+[[Sei interessato a un Micro-Master? contattaci!]](mailto:info@fabctory.com)
 
-### Workshop
+## Workshop
 
 I nostri workshop forniscono percorsi intensivi per acquisire padronanza di uno specifico tema. In generale prevedono dai 4 ai 12 incontri e possono essere realizzati sia presso il ns. laboratorio che presso la sede del cliente.
 
@@ -33,13 +35,13 @@ I nostri workshop forniscono percorsi intensivi per acquisire padronanza di uno 
 
 [Introduzione alla Fabbricazione Digitale]()
 
-**Vuoi partecipare o organizzare un workshop?** [contattaci](mailto:info@fabctory.com)!
+[[Vuoi partecipare o organizzare un workshop? contattaci!]](mailto:info@fabctory.com)
 
-### Training Online
+## Training Online
 
 Coming soon: a breve pubblicheremo il nostro catalogo di webminar e tutorial online per apprendere la digitial fabrication realizzando progetti documentati con guide passo-passo.
 
-### Global Education
+## Global Education
 
 I programmi globali forniscono formazione di alto livello, in lingua inglese, con i massimi esperti mondiali nel ruolo di docenti per un campus distribuito in 60 paesi. I corsi si articolano in lezioni online e progetti pratici da svolgere nei laboratori in tutto il mondo con l'ausilio di un istruttore locale.
 
