@@ -2,6 +2,7 @@
 layout: default
 title: fabctory | Micro-Factory
 ---
+{::options parse_block_html="true" /}
 
 # Micro-Factory
 
@@ -9,8 +10,10 @@ Il design digitale consente di rappresentare e trasferire facilmente il progetto
 
 Tramite la fabbricazione digitale possiamo realizzare oggetti con una finitura adatta per le maggiori applicazioni, a costi molto più contenuti dei processi manuali, e per piccole serie, di quelli industriali.
 
-## Realizzazione prototipi
-
+<h2 onclick="toggleElement('prototipi','hidden')" id="realizzazione-prototipi"><i id='prototipi-minus' class="fa fa-minus-square hidden" aria-hidden="true"></i> <i id='prototipi-plus' class="fa fa-plus-square" aria-hidden="true"></i>
+ Realizzazione prototipi</h2>
+<div id="prototipi" class='hidden'>
+  
 **fabctory** fornisce supporto durante tutto il processo di realizzazione di un prototipo. 
 
 Il nostro servizio di co-design ti consente di affidare a personale qualificato la progettazione CAD del tuo prodotto, che potrai realizzare direttamente nel laboratorio utilizzando le nostre attrezzature. 
@@ -19,15 +22,19 @@ Una volta completato il design, potrai produrre localmente una prima serie limit
 
 <i class="fa fa-exclamation-circle"></i> **[Richiedi un preventivo](mailto:info@fabctory.com)**
 
-## Piccole serie
+</div>
 
+<h2 onclick="toggleElement('piccole-serie-block','hidden')" id="piccole-serie"><i id='piccole-serie-block-minus' class="fa fa-minus-square hidden" aria-hidden="true"></i> <i id='piccole-serie-block-plus' class="fa fa-plus-square" aria-hidden="true"></i>Piccole serie</h2>
+<div id="piccole-serie-block" class="hidden">
 Grazie alle attrezzature disponibili nel laboratorio possiamo realizzare fino a mille copie di un oggetto sia con tecnologia FDM che tramite stampaggio in silicone in un'ampia gamma di materiali plastici. 
 
 Il costo sarà nettamente inferiore rispetto a quello necessario per iniziare subito una produzione industriale, ad esempio tramite stampaggio ad iniezione.
 
 <i class="fa fa-exclamation-circle"></i> **[Richiedi una consulenza gratuita](mailto:info@fabctory.com)**
+</div>
 
-## Laboratorio e attrezzature
+<h2 onclick="toggleElement('laboratorio-e-attrezzature-block','hidden')" id="laboratorio-e-attrezzature"><i id='laboratorio-e-attrezzature-block-minus' class="fa fa-minus-square hidden" aria-hidden="true"></i> <i id='laboratorio-e-attrezzature-block-plus' class="fa fa-plus-square" aria-hidden="true"></i> Laboratorio e attrezzature</h2>
+<div id="laboratorio-e-attrezzature-block" class="hidden">
 
 Il laboratorio di fabctory si estende per oltre 300mq e fornisce spazi per il lavoro di gruppo, per la formazione, la prototipazione, la costruzione e l'assemblaggio dei progetti.
 
@@ -75,9 +82,11 @@ Le seguenti attrezzature sono a disposizione per lo sviluppo di prototipi e picc
 - Visore Samsung VR Gear
 
 <i class="fa fa-exclamation-circle"></i>  **[Contattaci per usare il laboratorio](mailto:info@fabctory.com)**
+</div>
 
-## Processi
+<h2 onclick="toggleElement('processi-block','hidden')" id="processi"><i id='processi-minus' class="fa fa-minus-square hidden" aria-hidden="true"></i> <i id='processi-plus' class="fa fa-plus-square" aria-hidden="true"></i> Processi</h2>
 
+<div id="processi-block" class="hidden">
 Tramite le attrezzature e i materiali a disposizione potrai utilizzare diversi processi per realizzare il tuo progetto:
 
 - stampa 3d FDM e SLA
@@ -87,6 +96,7 @@ Tramite le attrezzature e i materiali a disposizione potrai utilizzare diversi p
 - compositi in fibre naturali e fibra di vetro
 - stampaggio zinco e metalli preziosi
 - circuiti stampati fino a due layer
+</div>
 
 ## Maggiori informazioni
 

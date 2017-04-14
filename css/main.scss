@@ -14,6 +14,8 @@ h1, h2, h3, h4, h5, h6 {
    font-family: 'Dosis', cursive;
    font-weight: 800;
    text-transform: lowercase;
+   white-space: nowrap;
+  
 }
 
 .logo {
@@ -44,6 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 6px 0 0;
   width: auto;
   display: inline-block;
+  font-size: .7em;
 }
 
  h1#a-new-kind-of-factory, h1#micro-factory,h1#training, h1#servizi {
@@ -88,6 +91,10 @@ color:black;
 text-decoration: underline;
 }
 
+.hidden {
+  display: none;
+}
+
 html {
   background-image: url('./tile.jpg');
   background-position:center center;
@@ -109,6 +116,7 @@ background-color: #af9981;
  h2#trainingtraining a,
  h2#serviziservizi a {
    text-decoration: none;
+   white-space: nowrap;
 //   text-transform: uppercase;
 //   background: black;
 //   color: #ffd633;
@@ -116,3 +124,4 @@ background-color: #af9981;
 //   padding-right: 6px;
 //
  }
+ 
