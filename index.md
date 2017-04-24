@@ -39,7 +39,7 @@ Seguici su [<i class="fa fa-twitter"></i>](http://twitter.com/fabctory)  [ <i cl
 
 <form action="//twitter.us7.list-manage.com/subscribe/post?u=096caff94864d2f0d5dea8253&amp;id=341853ce4a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Iscriviti alla nostra mailing list</label>
+	<label for="mce-EMAIL">Iscriviti alla nostra mailing list</label><br>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="il tuo email" required>
 	<input type="submit" value="Iscriviti" name="subscribe" id="mc-embedded-subscribe" class="button button-inverse">
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
